@@ -25,6 +25,9 @@ contributor:
     wikipedia:
     - https://hu.wikipedia.org/wiki/M%C3%A1rk_Lajos
     - https://en.wikipedia.org/wiki/Lajos_M%C3%A1rk
+covers:
+- cover_type: archival
+  image_path: 68475-h/images/cover.jpg
 creator:
   author:
     agent_name: Pálffy, Albert
@@ -35,6 +38,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54311
     wikipedia: https://hu.wikipedia.org/wiki/P%C3%A1lffy_Albert
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68475#Esztike-kisasszony-professzora-Regeny
 gutenberg_issued: '2022-07-08'
 identifiers:
   gutenberg: '68475'
